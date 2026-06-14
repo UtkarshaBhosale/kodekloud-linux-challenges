@@ -53,8 +53,9 @@ In this challenge, I provisioned a custom Apache application user with a specifi
 
 This challenge reinforced the importance of dedicated service accounts in enterprise Linux environments and demonstrated how proper user provisioning contributes to improved security, accountability, and system maintainability.
 
-📄 **Documentation:**
-➡️ [View Challenge #001](Challenges/001-user-management/README.md)
+📄 **Documentation:**  
+➡️ [View Challenge #001](Challenges/01 - create-custom-apache-user/01 - create-custom-apache-user.md)
+
 
 ---
 
