@@ -100,7 +100,7 @@ The screenshot below demonstrates:
 * ✅ Verification using the `id` command
 * ✅ Verification through `/etc/passwd`
 
-![Successful creation of user ravi with custom UID 1812](01 - create-custom-apache-user/user-creation-command.png)
+![Successful creation of user ravi with custom UID 1812](user-creation-command.png)
 ---
 
 ## 🔐 Security Insights
